@@ -1,6 +1,5 @@
 
 const items=[];
-const operate=[];
 let index=-1;
 var ind=0;
 function add() {
